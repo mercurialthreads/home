@@ -1,0 +1,3 @@
+Replace YOUR_GOOGLE_SCRIPT_ID in the action attribute of the <form> tag with the ID of a Google Apps Script endpoint that you configure to send form submissions to Google Drive or Google Sheets.
+Add any missing images to the src attributes of the <img> and background-image properties.
+Ensure your Google Apps Script is set to accept POST requests and stores the data securely. Let me know if you need help setting that up!

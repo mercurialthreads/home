@@ -1,0 +1,12 @@
+# System and editor-specific files
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+
+# Temporary or cache files
+.cache/
+
+# IDE or editor files
+.vscode/
+.idea/
